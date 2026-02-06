@@ -12,10 +12,34 @@
 
 ## Connect with MixCode
 
-[📞 WhatsApp](https://wa.me/201091015305)  
-[![Twitter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg)](https://x.com/mixcode_1)  
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/company/mixcode)  
-[![Facebook](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg)](https://www.facebook.com/mixcode1)
+<a href="https://wa.me/201091015305" target="_blank">📞 WhatsApp</a>
+<a href="https://x.com/mixcode_1" target="_blank">
+  <img
+    align="center"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"
+    alt="Twitter"
+    height="30"
+    width="40"
+  />
+</a>
+<a href="https://www.linkedin.com/company/mixcode" target="_blank">
+  <img
+    align="center"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+    alt="LinkedIn"
+    height="30"
+    width="40"
+  />
+</a>
+<a href="https://www.facebook.com/mixcode1" target="_blank">
+  <img
+    align="center"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
+    alt="Facebook"
+    height="30"
+    width="40"
+  />
+</a>
 
 ---
 
